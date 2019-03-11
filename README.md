@@ -15,4 +15,5 @@ Blog Links:
   - [Part 5:](https://github.com/kevindsteeleii/Dev.to_Blogs/tree/master/2019-01/05_DB-Models_05of05.md)
 - [(planning)Where do I start? Part 0: Bash Terminal, Git and Github/ version control](https://github.com/kevindsteeleii/Dev.to_Blogs/tree/master/2019-02/06a_BeginnersGuideList_00.md)
   - [Part 1: IDEs, HTML, CSS, & CSS Frameworks](https://github.com/kevindsteeleii/Dev.to_Blogs/tree/master/2019-02/06b_BeginnersGuideListing_01of_.md)
-  - [(planning) Part 2: CSS Preprocessors & JavaScript](https://github.com/kevindsteeleii/Dev.to_Blogs/tree/master/2019-02/07_BeginnersGuideListing_02of_.md)
+  - [Part 2: CSS Pre-processors](https://github.com/kevindsteeleii/Dev.to_Blogs/tree/master/2019-03/07_BeginnersGuideListing_02of_.md)
+  - [Part 3: JavaScript](https://github.com/kevindsteeleii/Dev.to_Blogs/tree/master/2019-03/08_BeginnersGuideListing_03of_.md)
